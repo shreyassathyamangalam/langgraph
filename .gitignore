@@ -14,3 +14,10 @@ wheels/
 
 # Jupyter Notebook endpoints
 .ipynb_checkpoints/
+
+# Pytest cache
+.cache/
+
+# Database files
+*.sqlite3
+*.db

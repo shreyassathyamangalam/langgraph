@@ -10,6 +10,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "langchain>=0.3.26",
     "langchain-community>=0.3.27",
+    "langchain-mcp-adapters>=0.2.0",
     "langchain-openai>=0.3.28",
     "langgraph>=0.5.3",
     "langgraph-checkpoint-sqlite>=2.0.11",
